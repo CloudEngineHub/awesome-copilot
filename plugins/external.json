@@ -587,7 +587,7 @@
   {
     "name": "keep-the-why",
     "description": "Preserves or recovers the reasoning behind a codebase — architectural decisions, rejected alternatives, workarounds, incident learnings, operational constraints, and historical context the code itself cannot explain.",
-    "version": "0.5.2",
+    "version": "0.9.2",
     "author": {
       "name": "Oliver Zehentleitner",
       "url": "https://github.com/oliver-zehentleitner"
@@ -606,7 +606,7 @@
     "source": {
       "source": "github",
       "repo": "oliver-zehentleitner/keep-the-why",
-      "ref": "v0.5.2"
+      "ref": "v0.9.2"
     }
   },
   {
@@ -1101,7 +1101,7 @@
   {
     "name": "vercel-plugin",
     "description": "Build and deploy web apps and agents. Comprehensive Vercel ecosystem plugin — relational knowledge graph, skills for every major product, specialized agents, and Vercel conventions. Turns any AI agent into a Vercel expert.",
-    "version": "0.43.0",
+    "version": "0.48.1",
     "author": {
       "name": "Vercel",
       "url": "https://github.com/vercel"
@@ -1124,7 +1124,7 @@
     "source": {
       "source": "github",
       "repo": "vercel/vercel-plugin",
-      "sha": "6e51924cb249e2941de005d59f1ac6f768477b98"
+      "sha": "c4a1c4e2e16feefb1d9f2ad2a4a451abd0ae91c6"
     }
   },
   {
